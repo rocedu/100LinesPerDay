@@ -1,6 +1,12 @@
 bin
 out
 
+# java
+
 *.class
+
+# c/cpp
+a.out
 *.o
+
 
